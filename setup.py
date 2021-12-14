@@ -12,14 +12,14 @@ DESCRIPTION = '\n\n'.join(LOAD_TEXT(_) for _ in [
 setup(
   name = 'uncleprofilek',      
   packages = ['uncleprofilek'], 
-  version = '0.0.1',  
+  version = '0.0.4',  
   license='MIT', 
   description = 'uncleprofilek by Kanaplakem',
   long_description=DESCRIPTION,
   author = 'Kanaplaken',                 
   author_email = 'T_Tzzz4@hotmail.com',     
   url = 'https://github.com/Kanaplakem/Uncleprofilek',  
-  download_url = 'https://github.com/Kanaplakem/Uncleprofilek/archive/v0.0.1.zip',  
+  download_url = 'https://github.com/Kanaplakem/Uncleprofilek/archive/v0.0.4.zip',  
   keywords = ['Profile', 'Uncle', 'Kanaplakem'],
   classifiers=[
     'Development Status :: 3 - Alpha',     

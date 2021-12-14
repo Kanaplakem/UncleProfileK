@@ -25,6 +25,7 @@ my.show_email()
 my.show_myart()
 my.show_hobby()
 my.show_cat()
+my.show_loong()
 ```
 
 พัฒนาโดย:

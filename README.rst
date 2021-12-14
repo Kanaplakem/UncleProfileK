@@ -29,6 +29,7 @@ PyPi: https://pypi.org/project/uncleprofilek/
        my.show_myart()
        my.show_hobby()
        my.show_cat()
+       my.show_loong()
 
 FB: https://www.facebook.com/kanapoj.sirisant
 
