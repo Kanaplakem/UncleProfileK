@@ -18,14 +18,16 @@ pip install uncleprofilek
 
 ```python
 my = Profile('Loong')
-	my.company = 'uncle-engineer'
-	my.hobby = ['Youtuber','Reading','Sleeping']
-	print(my.name)
-	my.show_email()
-	my.show_myart()
-	my.show_hobby()
+my.company = 'uncle-engineer'
+my.hobby = ['Youtuber','Reading','Sleeping']
+print(my.name)
+my.show_email()
+my.show_myart()
+my.show_hobby()
+my.show_cat()
 ```
 
-พัฒนาโดย: ลุงวิศวกร สอนคำนวณ
-FB: https://www.facebook.com/UncleEngineer
+พัฒนาโดย:
+FB: https://www.facebook.com/kanapoj.sirisant
+
 YouTube: https://www.youtube.com/UncleEngineer

@@ -28,6 +28,8 @@ PyPi: https://pypi.org/project/uncleprofilek/
        my.show_email()
        my.show_myart()
        my.show_hobby()
+       my.show_cat()
 
-พัฒนาโดย: ลุงวิศวกร สอนคำนวณ FB: https://www.facebook.com/UncleEngineer
+FB: https://www.facebook.com/kanapoj.sirisant
+
 YouTube: https://www.youtube.com/UncleEngineer
